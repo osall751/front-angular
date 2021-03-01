@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "gestionrendezvousapp"
+  "defaultProject": "gestionrendezvousapp",
+  "cli": {
+    "analytics": "8e51706a-c656-463f-afc6-975a6e148bd2"
+  }
 }

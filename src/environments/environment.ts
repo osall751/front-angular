@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  urlServeurApi:'https://springboot-postgres-rendezvous.herokuapp.com'
+  // urlServeurApi:'http://localhost:8080'
 };
 
 /*
